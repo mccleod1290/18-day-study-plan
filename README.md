@@ -4,7 +4,7 @@
 ## How to Use
 1. **Clone:** Fork or clone this repository.
 2. **Plan:** Open "day[n].md" for daily tasks.
-3. **Resources:** Find additional materials in the 'resources' directory.
+3. **Resources:** Original study plan is attached in this repo as a pdf file/
 
 ## Support
 - **Issues:** Open for questions or clarifications.
